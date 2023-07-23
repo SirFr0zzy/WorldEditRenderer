@@ -1,0 +1,4 @@
+name: SchematicRenderer
+version: '${project.version}'
+main: de.sirfrozzy.schematicrenderer.SchematicRenderer
+api-version: '1.19'
